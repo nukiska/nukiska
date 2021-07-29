@@ -2,7 +2,7 @@
 
 - <h3>a curious Junior Python Developer</h3>
 
-I’m currently interested in **Python, Django, HTML, CSS, JavaScript**.
+I’m currently interested in **Python3, Django, HTML5, CSS, JavaScript**.
 
 <h3 align="left">Languages and Tools:</h3>
 
