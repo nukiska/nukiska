@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Nina Břicháčková</h2>
 
-- <h3>an excited Junior Python Developer</h3>
+- <h3>a curious Junior Python Developer</h3>
 
 I’m currently interested in **Python, Django, HTML, CSS, Javascript**.
 
